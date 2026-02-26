@@ -1,8 +1,6 @@
 {
-  "latest_version": "1.0.11",
-  "latest_build": "1",
-  "release_notes": "1. 修复已知问题\n2. 优化体验",
-  "downloads": {
-    "android": "https://github.com/JCzZz-123/coco/releases/download/v0.0.3/app-release.apk"
-  }
+  "version": "1.0.12",
+  "download_url": "https://github.com/cirico/esp32-robot-cirico-app/releases/download/v1.0.12/app-release.apk",
+  "release_notes": "1. 优化连接稳定性\n2. 修复已知问题\n3. 提升整体性能",
+  "force_update": false
 }
