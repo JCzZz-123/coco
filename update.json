@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "download_url": "https://github.com/JCzZz-123/coco/releases/download/v0.0.3/app-release.apk",
+  "version": "0.0.4",
+  "download_url": "https://github.com/JCzZz-123/coco/releases/download/v0.0.4/app-release.apk",
   "release_notes": "1. 优化连接稳定性\n2. 修复已知问题\n3. 提升整体性能",
   "force_update": false
 }
